@@ -7,7 +7,7 @@
 ## I'm **Jhonier Corozo**
 
 💻 Software Developer focused on **Mobile Development**  
-📱 Passionate about building **mobile applications and backend integrations**  
+📱 Passionate about building **mobile applications and web tecnologies**  
 🌎 Based in **Ecuador**
 
 🎓 Currently pursuing a **Software Engineering degree**
