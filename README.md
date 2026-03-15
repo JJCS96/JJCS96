@@ -41,6 +41,8 @@
 
 ### 🛠 Technologies & Tools
 
+<p>
+
 <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/>
@@ -53,6 +55,8 @@
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white"/>
+
+</p>
 
 ---
 
