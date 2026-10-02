@@ -46,14 +46,13 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-039BE5?logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white"/>
 
 </p>
